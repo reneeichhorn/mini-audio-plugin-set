@@ -1,9 +1,13 @@
 # mini-audio-plugin-set
 A collection of small audio plugins written in rust
 
+## Disclaimer
+
+Most Plugins do not come with any UI as it is not needed. Just use your DAW's control to setup or modulate any of the plugins params.
+
 ## List of plugins
 
-### MIDI Peak Filter
+### MIDI Peak EQ
 
 **Source**: `plugins/filters/midi-peak-eq`
 
